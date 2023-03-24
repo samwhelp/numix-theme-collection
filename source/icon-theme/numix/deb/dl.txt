@@ -1,0 +1,5 @@
+
+
+http://tw.archive.ubuntu.com/ubuntu/pool/universe/n/numix-icon-theme/numix-icon-theme_0~20230213-1_all.deb
+http://tw.archive.ubuntu.com/ubuntu/pool/universe/n/numix-icon-theme/numix-icon-theme_0~20230213-1.dsc
+http://tw.archive.ubuntu.com/ubuntu/pool/universe/n/numix-icon-theme/numix-icon-theme_0~20230213.orig.tar.gz
