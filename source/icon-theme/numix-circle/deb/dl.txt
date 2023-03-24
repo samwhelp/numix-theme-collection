@@ -1,0 +1,6 @@
+
+
+http://tw.archive.ubuntu.com/ubuntu/pool/universe/n/numix-icon-theme-circle/numix-icon-theme-circle_22.11.05-1_all.deb
+http://tw.archive.ubuntu.com/ubuntu/pool/universe/n/numix-icon-theme-circle/numix-icon-theme-circle_22.11.05-1.dsc
+http://tw.archive.ubuntu.com/ubuntu/pool/universe/n/numix-icon-theme-circle/numix-icon-theme-circle_22.11.05.orig.tar.gz
+http://tw.archive.ubuntu.com/ubuntu/pool/universe/n/numix-icon-theme-circle/numix-icon-theme-circle_22.11.05-1.debian.tar.xz
